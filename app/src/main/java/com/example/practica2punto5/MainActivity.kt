@@ -78,6 +78,7 @@ fun AppContent(modifier: Modifier = Modifier) {
 fun VistaInicioSesion(navController: NavHostController, modifier: Modifier = Modifier) {
 
 
+    // Modificación
     val context = LocalContext.current
 
     var usuario: String by remember { mutableStateOf("") }
