@@ -77,7 +77,7 @@ fun AppContent(modifier: Modifier = Modifier) {
 @Composable
 fun VistaInicioSesion(navController: NavHostController, modifier: Modifier = Modifier) {
 
-
+//HOLAAA
     // Modificación
     val context = LocalContext.current
 
